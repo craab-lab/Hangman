@@ -1,6 +1,8 @@
 import random as rn
 print("Welcome to the greatest hangman game ever!")
 
+# This is take one, with raw game-play code without helpful functions, will update....
+
 # To figure out
 # how to keep the game
 
